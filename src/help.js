@@ -249,9 +249,11 @@ return `┏━🔥      ui       🔥━┓
 ❁❧ *${p}realhoje*
 ❁❧ *${p}cvoin* ❮c1❯|❮c2❯
 ❁❧ *${p}ccoin* ❮c1❯|❮c2❯|❮num❯`
-}
+
 
 🤝 Lücäs 🎩
+   
+} 
 
 exports.help = help
 
